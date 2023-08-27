@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.meiqiaochen.blog/">
-    <img alt="Example article page" src="https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg" width="689">
+    <img alt="Example article page" src="https://github.com/erinchocolate/notion-blog/blob/main/blog.PNG?raw=true" width="689">
   </a>
 </p>
+
 
 
 # Meiqiao's Second Brain
